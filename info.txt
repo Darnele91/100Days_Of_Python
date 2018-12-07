@@ -1,1 +1,2 @@
 This file is where I will track my learning progress
+12/05/18: learned how to work with dates and files, I also did some string formatting
