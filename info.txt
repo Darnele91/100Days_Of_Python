@@ -1,2 +1,5 @@
 This file is where I will track my learning progress
 12/05/18: learned how to work with dates and files, I also did some string formatting
+12/07/18: I am learning about generators in python. I am not quite grasping the concept yet.
+I will keep on reading about it and see if I can fully understand it.
+I will keep reading over the weekend, coding to be resumed on Monday. 
