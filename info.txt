@@ -4,4 +4,6 @@ This file is where I will track my learning progress
 I will keep on reading about it and see if I can fully understand it.
 I will keep reading over the weekend, coding to be resumed on Monday.
 12/10/18: I learned some more about generators, I understand a little bit better.
-I proceed to work with functions. 
+I proceed to work with functions.
+12/11/18: I learned some more about functions. I learned about Lambda functions. I made a little
+program that brings it all together. I create a file, open it and add data on it all that using functions.
