@@ -7,3 +7,4 @@ I will keep reading over the weekend, coding to be resumed on Monday.
 I proceed to work with functions.
 12/11/18: I learned some more about functions. I learned about Lambda functions. I made a little
 program that brings it all together. I create a file, open it and add data on it all that using functions.
+12/12/18: The same program I made yesterday with the functions, I added classes in it. 
