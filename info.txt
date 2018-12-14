@@ -10,4 +10,7 @@ program that brings it all together. I create a file, open it and add data on it
 12/12/18: The same program I made yesterday with the functions, I added classes in it.
 12/13/18: I fixed a minor problem on my git configuration. I changed the email address from my
 personal email to my work email. I was not able to commit from my local repo, now I can!  
-12/14/18: I started the Data Science part of Python. I got an overview of the Python Data Science ecosystem. I downloaded Anaconda, get acquainted with Jupyter notebook. I also learned about Markdown syntax to create report in Jupyter Notebook. Tomorrow I will be working on my TJBot(I haven't found a name for him yet) therefore I won't be doing any Data Science study. Study to be resumed on Monday.
+12/14/18: I started the Data Science part of Python. I got an overview of the Python Data Science ecosystem.
+I downloaded Anaconda, get acquainted with Jupyter notebook. I also learned about Markdown syntax to create report
+in Jupyter Notebook. Tomorrow I will be working on my TJBot(I haven't found a name for him yet) therefore I won't 
+be doing any Data Science study. Study to be resumed on Monday.
