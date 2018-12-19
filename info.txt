@@ -14,4 +14,6 @@ personal email to my work email. I was not able to commit from my local repo, no
 I downloaded Anaconda, get acquainted with Jupyter notebook. I also learned about Markdown syntax to create report
 in Jupyter Notebook. Tomorrow I will be working on my TJBot(I haven't found a name for him yet) therefore I won't 
 be doing any Data Science study. Study to be resumed on Monday.
-I worked with numpy array 1D. I did subsetting, slicing and logical indexing. Tomorrow I continue with 2D.
+12/17/18: I worked with numpy array 1D. I did subsetting, slicing and logical indexing. Tomorrow I continue with 2D.
+12/18/18: I worked in numpy array 2D. I did subsetting, slicing and logical indexing.
+Tomorrow I will continue with functions in numpy. 
