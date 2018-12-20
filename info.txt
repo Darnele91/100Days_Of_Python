@@ -17,3 +17,5 @@ be doing any Data Science study. Study to be resumed on Monday.
 12/17/18: I worked with numpy array 1D. I did subsetting, slicing and logical indexing. Tomorrow I continue with 2D.
 12/18/18: I worked in numpy array 2D. I did subsetting, slicing and logical indexing.
 Tomorrow I will continue with functions in numpy. 
+12/19/18: I did not start working with functions in numpy as intended. I did some more exercises on NumPy Arrays 
+manipulation. Tomorrow I start with Functions in NumPy.
