@@ -19,3 +19,5 @@ be doing any Data Science study. Study to be resumed on Monday.
 Tomorrow I will continue with functions in numpy. 
 12/19/18: I did not start working with functions in numpy as intended. I did some more exercises on NumPy Arrays 
 manipulation. Tomorrow I start with Functions in NumPy.
+12/20/18: I started learning about functions and methods in NumPy. I watched tutorials. I will be doing a lot of tutorials 
+watching until I get back to the office on January.
