@@ -21,3 +21,5 @@ Tomorrow I will continue with functions in numpy.
 manipulation. Tomorrow I start with Functions in NumPy.
 12/20/18: I started learning about functions and methods in NumPy. I watched tutorials. I will be doing a lot of tutorials 
 watching until I get back to the office on January.
+12/26/18: On the 21st I did some HackerRacnk challenges in python.
+Today, the 26th I watched tutorials about random numbers in NumPy.
