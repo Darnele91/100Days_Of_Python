@@ -25,3 +25,5 @@ watching until I get back to the office on January.
 Today, the 26th I watched tutorials about random numbers in NumPy.
 12/27/18: I practiced how to generate random values, learned about seeding and how to use it. Also learned how to create random
 numbers from normal distribution. I learned how to generate random integers.
+12/28/18: I wachted tutorial on how to create pandas DataFrames. The meaning of index. Setting and resetting the 
+DataFrame index. Resuming coding on Monday. (2018 been great, 2019 will be way better) 
