@@ -29,5 +29,8 @@ numbers from normal distribution. I learned how to generate random integers.
 DataFrame index. Resuming coding on Monday. (2018 been great, 2019 will be way better) 
 01/02/19: I watched tutorial about reading data fron .csv files. I still need to practice. Did not update yesterday but I did
 practice creating data frames with pandas.
-01/03/18: I tried to practice reading data from .csv files. I downloaded the data from @kaggle, but I was not able to read it.
+01/03/19: I tried to practice reading data from .csv files. I downloaded the data from @kaggle, but I was not able to read it.
 I am still working on finding a way to solve this minor issue.
+01/06/19: I was introduced to Kaggle, I created a kernel to read the same data file that I downloaded and was not able to read
+on my local computer. Kaggle has a lot of ressources, I will be spending some time with them and make good use of the 
+ressources available.
